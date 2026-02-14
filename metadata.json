@@ -1,0 +1,8 @@
+{
+  "name": " NeuroBuzz: Inclusive Learning Hub",
+  "description": "An AI-powered educational platform for neurodivergent children in India, featuring multimodal visual and auditory study tools.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
